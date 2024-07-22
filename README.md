@@ -1,2 +1,2 @@
 # No-More-Nick-Names-Exile-VG
-Overrides for Exile Virtual Garage that dissable nicknames when storing vehicles
+Overrides for Exile Virtual Garage that disable nicknames when storing vehicles
